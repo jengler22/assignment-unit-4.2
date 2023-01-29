@@ -1,0 +1,22 @@
+header { 
+    background-color: crimson;
+    text-align: center;
+}
+
+div{
+    background-color: cornflowerblue;
+    color: beige;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    background-color: darkblue;
+    color: gainsboro;
+    text-align: center;
+    font-style: italic;
+}
+img {
+width: 700px;
+border: 25px solid darkgrey;
+}
